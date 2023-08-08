@@ -1,0 +1,10 @@
+.dashboard {
+  display: grid;
+  grid-template-columns: 385px 1fr;
+  gap: 100px;
+  padding: 10px 30px;
+}
+
+.right-side {
+  padding-top: 20px;
+}
